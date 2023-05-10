@@ -39,7 +39,7 @@
                   </span>
                   <div class="form-outline mb-4">
                     <input type="password" id="paswword" name="password" autofocus="true" autocomplete="off" class="form-control form-control-lg" />
-                    <label class="form-label" for="form2Example27">Password</label>
+                    <label class="form-label" for="form2Example27"></label>
                   </div>
                   <div class="pt-1 mb-4">
                     <button class="btn btn-dark btn-lg btn-block" type="submit">Login</button>
